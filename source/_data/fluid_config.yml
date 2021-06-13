@@ -1,5 +1,5 @@
 index:
-  banner_img: /images/uploads/background.webp
+  banner_img: https://cdn.jsdelivr.net/gh/physic-zz/tupian@master/txl-peizhi/IMG_20210305_095250.57h4rysevx80.jpg
   banner_img_height: 100
 post:
   banner_img: /images/uploads/mmexport1602581319886.webp
